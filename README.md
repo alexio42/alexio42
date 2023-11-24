@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexio42
 - 👀 
-- 🌱 I’m currently working my way through The Odin Project
+- 🌱 I’m currently working my way through The Odin Project and CS50
 - 💞️ 
 - 📫 
 
